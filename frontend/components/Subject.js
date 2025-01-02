@@ -20,7 +20,7 @@ export default {
           Delete
         </button>
         <button 
-          class="btn btn-secondary btn-sm"
+          class="btn btn-warning btn-sm"
           @click="onSeeMore"
         >
           See More
